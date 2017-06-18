@@ -15,7 +15,9 @@ p{
   position: absolute;
   min-height: 75%;
   min-width: 75%;
-  color: yellow;
+  color: white;
+  font-size: 2.5em;
+  font-family: 'Alfa Slab One';
   background-color: black;
-  
+
 }
